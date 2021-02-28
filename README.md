@@ -64,3 +64,9 @@ Step 2 : Download the apk and install it on your Android smartphone.<br/>
 Step 3 : Open the app and scan the surface.<br/>
 Step 4 : Once the surface is mapped, tap on screen to view the scenes.<br/>
 Step 5 : Enjoy!<br/>
+
+
+# Libraries and dependencies
+
+ARcore is supported by Android 8.1 (API 27) or later.<br/>
+
