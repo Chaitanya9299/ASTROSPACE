@@ -1,6 +1,6 @@
 <!-- Heading -->
 # AR in Astronomy
-## Intoduction
+## Introduction
 ASTROSPACE is an application that uses Augmented Reality technology to redefine the ways of knowledgeable entertainment and gives the potential beyond screen-based entertainment in the field of Astronomy. The interactive nature of app allows users to move and explore in a virtual environment.
 Instead of scrolling through application or playing onscreen games or movies, users can walk into a virtual world to discover the mysteries of the universe and gaining knowledge about space along with entertainment, thus making productive use of time.
 
@@ -50,3 +50,8 @@ Implementation of a Grand Virtual Hall of Fame for astronauts.
 Implementation of Xplore Web Platform using echoAR.
 Implementation of a AR jigsaw puzzle app.
 Adding Library for space books and movies.
+
+
+# Tech Stack Used
+
+ARCore, echoAR, Unity, Vuforia, Blender
